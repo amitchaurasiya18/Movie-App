@@ -8,6 +8,6 @@ namespace MovieAppLibrary.Exceptions
 {
     public class MovieNotFound : Exception
     {
-        public MovieNotFound(string message) : base(message)  { }
+        public MovieNotFound(string message) : base(message) { }
     }
 }

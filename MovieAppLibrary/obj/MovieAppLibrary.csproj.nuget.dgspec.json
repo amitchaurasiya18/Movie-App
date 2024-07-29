@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Class Libraries\\MovieAppLibrary\\MovieAppLibrary.csproj": {}
+    "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\MovieAppLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Class Libraries\\MovieAppLibrary\\MovieAppLibrary.csproj": {
+    "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\MovieAppLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Class Libraries\\MovieAppLibrary\\MovieAppLibrary.csproj",
+        "projectUniqueName": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\MovieAppLibrary.csproj",
         "projectName": "MovieAppLibrary",
-        "projectPath": "D:\\Class Libraries\\MovieAppLibrary\\MovieAppLibrary.csproj",
+        "projectPath": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\MovieAppLibrary.csproj",
         "packagesPath": "C:\\Users\\amit.chaurasiya\\.nuget\\packages\\",
-        "outputPath": "D:\\Class Libraries\\MovieAppLibrary\\obj\\",
+        "outputPath": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amit.chaurasiya\\AppData\\Roaming\\NuGet\\NuGet.Config",

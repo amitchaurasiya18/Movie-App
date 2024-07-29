@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects (Training)\\MovieApp\\MovieApp.csproj": {}
+    "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects (Training)\\MovieApp\\MovieApp.csproj": {
+    "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects (Training)\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "D:\\Visual Studio Projects (Training)\\MovieApp\\MovieApp.csproj",
+        "projectPath": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\amit.chaurasiya\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects (Training)\\MovieApp\\obj\\",
+        "outputPath": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amit.chaurasiya\\AppData\\Roaming\\NuGet\\NuGet.Config",

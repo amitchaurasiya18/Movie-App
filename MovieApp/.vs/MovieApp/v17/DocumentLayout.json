@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual Studio Projects (Training)\\MovieApp\\",
+  "WorkspaceRootPath": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5900E8B-A273-46EF-90F7-4AA3405671AB}|MovieApp.csproj|d:\\visual studio projects (training)\\movieapp\\controller\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5900E8B-A273-46EF-90F7-4AA3405671AB}|MovieApp.csproj|solutionrelative:controller\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17246CF6-B32C-42ED-A377-9341D9E53137}|MovieApp.csproj|d:\\vs projects github\\movie-app\\movieapp\\controller\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17246CF6-B32C-42ED-A377-9341D9E53137}|MovieApp.csproj|solutionrelative:controller\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5900E8B-A273-46EF-90F7-4AA3405671AB}|MovieApp.csproj|d:\\visual studio projects (training)\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5900E8B-A273-46EF-90F7-4AA3405671AB}|MovieApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17246CF6-B32C-42ED-A377-9341D9E53137}|MovieApp.csproj|d:\\vs projects github\\movie-app\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17246CF6-B32C-42ED-A377-9341D9E53137}|MovieApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,27 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovieStore.cs",
-              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MovieApp\\Controller\\MovieStore.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\Controller\\MovieStore.cs",
               "RelativeDocumentMoniker": "Controller\\MovieStore.cs",
-              "ToolTip": "D:\\Visual Studio Projects (Training)\\MovieApp\\Controller\\MovieStore.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\Controller\\MovieStore.cs",
               "RelativeToolTip": "Controller\\MovieStore.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAA6AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:39:57.632Z",
+              "WhenOpened": "2024-07-29T10:45:23.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MovieApp\\Program.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Visual Studio Projects (Training)\\MovieApp\\Program.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:38:35.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:44:48.766Z"
             }
           ]
         }

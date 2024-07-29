@@ -19,10 +19,10 @@ namespace MovieApp.Controller
 
             while (continueProgram)
             {
-                Console.WriteLine("------Welcome to Movie Store------");
-                Console.WriteLine("\nSelect Operations: \n1. Add Movie\n2. Display Movie\n3. Delete Movie\n4. Exit");
+                Console.WriteLine("\n------Welcome to Movie Store------");
+                Console.WriteLine("\nSelect Operations: \n1. Add Movie\n2. Display Movie\n3. Delete Movie\n4. Display All Movies\n5. Exit");
                 int userChoice = int.Parse(Console.ReadLine());
-                
+
                 switch (userChoice)
                 {
                     case 1:
@@ -35,6 +35,9 @@ namespace MovieApp.Controller
                         MovieManager.DeleteMovie();
                         break;
                     case 4:
+                        MovieManager.DisplayAllMovies();
+                        break;
+                    case 5:
                         continueProgram = false;
                         break;
                     default:

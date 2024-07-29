@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <Reference Include="MovieAppLibrary">
-      <HintPath>..\..\Class Libraries\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.dll</HintPath>
+      <HintPath>..\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 

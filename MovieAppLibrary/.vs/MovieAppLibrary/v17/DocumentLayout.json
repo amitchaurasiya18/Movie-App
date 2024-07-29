@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Class Libraries\\MovieAppLibrary\\",
+  "WorkspaceRootPath": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|d:\\class libraries\\movieapplibrary\\repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|solutionrelative:repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|d:\\class libraries\\movieapplibrary\\services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|solutionrelative:services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\exceptions\\movienotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:exceptions\\movienotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|d:\\class libraries\\movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|d:\\class libraries\\movieapplibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546FDEF-0ECD-45BD-8F52-D03FFAD6164E}|MovieAppLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:39:44.535Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieNotFound.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Exceptions\\MovieNotFound.cs",
+              "RelativeDocumentMoniker": "Exceptions\\MovieNotFound.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Exceptions\\MovieNotFound.cs",
+              "RelativeToolTip": "Exceptions\\MovieNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:16:00.851Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SerialiseDeserialise.cs",
-              "DocumentMoniker": "D:\\Class Libraries\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
               "RelativeDocumentMoniker": "Services\\SerialiseDeserialise.cs",
-              "ToolTip": "D:\\Class Libraries\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
               "RelativeToolTip": "Services\\SerialiseDeserialise.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T10:04:46.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:40:15.491Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovieManager.cs",
-              "DocumentMoniker": "D:\\Class Libraries\\MovieAppLibrary\\Repository\\MovieManager.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Repository\\MovieManager.cs",
               "RelativeDocumentMoniker": "Repository\\MovieManager.cs",
-              "ToolTip": "D:\\Class Libraries\\MovieAppLibrary\\Repository\\MovieManager.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Repository\\MovieManager.cs",
               "RelativeToolTip": "Repository\\MovieManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T10:04:13.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Class Libraries\\MovieAppLibrary\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "D:\\Class Libraries\\MovieAppLibrary\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T10:04:04.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Class Libraries\\MovieAppLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\Class Libraries\\MovieAppLibrary\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:58:12.104Z",
+              "WhenOpened": "2024-07-29T10:39:59.67Z",
               "EditorCaption": ""
             }
           ]

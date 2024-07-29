@@ -10,10 +10,12 @@ using MovieAppLibrary.Services;
 namespace MovieAppLibrary.Repository
 {
     public class MovieManager : Movie
-    {        
+    {
+        public const int MOVIE_LIMIT = 5;
         private static List<Movie> movies = new List<Movie>();
 
-        public MovieManager() { 
+        public MovieManager()
+        {
             movies = SerialiseDeserialise.Deserialize();
         }
         public static void AddMovie()
@@ -21,9 +23,9 @@ namespace MovieAppLibrary.Repository
             try
             {
                 Movie movie = new Movie();
-                if (movies.Count > 2)
+                if (movies.Count > MOVIE_LIMIT)
                     throw new CapacityFull("Movie store's capacity is full.");
-                
+
                 Console.Write("Enter movie title : ");
                 movie.Title = Console.ReadLine();
 
@@ -32,11 +34,11 @@ namespace MovieAppLibrary.Repository
 
                 Console.Write("Enter movie release year (yyyy) : ");
                 movie.ReleaseYear = int.Parse(Console.ReadLine());
-                
+
                 if (movie.ReleaseYear < 1888)
                     throw new MovieYearNotFound("This year is before the release of first movie");
-                
-                movie.Id = movie.Title.Substring(0, 2) + movie.Genre.Substring(0,2) + movie.ReleaseYear.ToString().Substring(2,2);
+
+                movie.Id = movie.Title.Substring(0, 2) + movie.Genre.Substring(0, 2) + movie.ReleaseYear.ToString().Substring(2, 2);
 
                 Console.WriteLine($"Movie Id : {movie.Id}");
 
@@ -44,7 +46,7 @@ namespace MovieAppLibrary.Repository
                 SerialiseDeserialise.Serialize(movies);
                 Console.WriteLine("\nMovie Added successfully.");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
@@ -57,7 +59,7 @@ namespace MovieAppLibrary.Repository
             {
                 if (!movies.Any())
                     throw new StoreEmpty("Movie Store is Empty. Please add some movies");
-                
+
                 Console.Write($"Enter movie ID to get details : ");
                 string movieId = Console.ReadLine();
                 bool foundMovie = false;
@@ -90,8 +92,8 @@ namespace MovieAppLibrary.Repository
             try
             {
                 if (!movies.Any())
-                    throw new StoreEmpty("Movie Store is Empty. Please add some movies");                    
-                
+                    throw new StoreEmpty("Movie Store is Empty. Please add some movies");
+
                 Console.Write($"Enter movie ID to get details : ");
                 string movieId = Console.ReadLine();
                 bool movieDeleted = false;
@@ -107,6 +109,31 @@ namespace MovieAppLibrary.Repository
                 SerialiseDeserialise.Serialize(movies);
                 if (!movieDeleted)
                     throw new MovieNotFound("Movie Not Found");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+
+        public static void DisplayAllMovies()
+        {
+            try
+            {
+                if(!movies.Any())
+                    throw new StoreEmpty("Movie Store is Empty. Please add some movies");
+
+                Console.WriteLine($"----------------------------------------------------------------------");
+                Console.WriteLine($"|{"",-28}{"Movie Store"}{"",29}|");
+                Console.WriteLine($"----------------------------------------------------------------------");
+                Console.WriteLine($"| {"ID",-10} | {"Movie Name",-25} | {"Genre",-10} | {"Release Year",-10} |");
+                Console.WriteLine($"----------------------------------------------------------------------");
+
+                foreach (Movie movie in movies)
+                {
+                    Console.WriteLine($"| {movie.Id,-10} | {movie.Title,-25} | {movie.Genre,10} | {movie.ReleaseYear,12} |");
+                }
+                Console.WriteLine($"----------------------------------------------------------------------\n");
             }
             catch (Exception ex)
             {

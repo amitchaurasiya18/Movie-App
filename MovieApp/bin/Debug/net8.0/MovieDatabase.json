@@ -6,15 +6,33 @@
     "Genre": "Thriller"
   },
   {
-    "Id": "LaDr24",
-    "Title": "Laapata Ladies",
-    "ReleaseYear": 2024,
-    "Genre": "Drama"
+    "Id": "MeSu23",
+    "Title": "Merry Christmas",
+    "ReleaseYear": 2023,
+    "Genre": "Suspense"
   },
   {
     "Id": "DhCo10",
     "Title": "Dhamaal",
     "ReleaseYear": 2010,
     "Genre": "Comedy"
+  },
+  {
+    "Id": "LaDr24",
+    "Title": "Laapata Ladies",
+    "ReleaseYear": 2024,
+    "Genre": "Drama"
+  },
+  {
+    "Id": "MoFa57",
+    "Title": "Mother India",
+    "ReleaseYear": 1957,
+    "Genre": "Family"
+  },
+  {
+    "Id": "AvSc19",
+    "Title": "Avengers Endgame",
+    "ReleaseYear": 2019,
+    "Genre": "Sci-Fi"
   }
 ]
