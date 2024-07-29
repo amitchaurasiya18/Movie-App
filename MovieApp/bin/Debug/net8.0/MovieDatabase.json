@@ -1,21 +1,9 @@
 [
   {
-    "Id": "MaTh24",
-    "Title": "Maharaja",
-    "ReleaseYear": 2024,
-    "Genre": "Thriller"
-  },
-  {
     "Id": "MeSu23",
     "Title": "Merry Christmas",
     "ReleaseYear": 2023,
     "Genre": "Suspense"
-  },
-  {
-    "Id": "DhCo10",
-    "Title": "Dhamaal",
-    "ReleaseYear": 2010,
-    "Genre": "Comedy"
   },
   {
     "Id": "LaDr24",

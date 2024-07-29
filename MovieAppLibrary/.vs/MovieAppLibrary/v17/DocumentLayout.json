@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\exceptions\\movienotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:exceptions\\movienotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|d:\\vs projects github\\movie-app\\movieapplibrary\\services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C288DE3-A04F-4796-A02F-9A0A03376BEA}|MovieAppLibrary.csproj|solutionrelative:services\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -38,12 +38,15 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAgwBAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:39:44.535Z",
-              "IsPinned": true
+              "WhenOpened": "2024-07-29T10:39:44.535Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MovieNotFound.cs",
               "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Exceptions\\MovieNotFound.cs",
               "RelativeDocumentMoniker": "Exceptions\\MovieNotFound.cs",
@@ -55,20 +58,17 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SerialiseDeserialise.cs",
               "DocumentMoniker": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
               "RelativeDocumentMoniker": "Services\\SerialiseDeserialise.cs",
               "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Services\\SerialiseDeserialise.cs",
               "RelativeToolTip": "Services\\SerialiseDeserialise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:40:15.491Z"
+              "WhenOpened": "2024-07-29T10:40:15.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "Repository\\MovieManager.cs",
               "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieAppLibrary\\Repository\\MovieManager.cs",
               "RelativeToolTip": "Repository\\MovieManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T10:39:59.67Z",
               "EditorCaption": ""

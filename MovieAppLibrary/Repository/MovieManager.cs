@@ -43,13 +43,13 @@ namespace MovieAppLibrary.Repository
                 Console.WriteLine($"Movie Id : {movie.Id}");
 
                 movies.Add(movie);
-                SerialiseDeserialise.Serialize(movies);
                 Console.WriteLine("\nMovie Added successfully.");
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
+            SerialiseDeserialise.Serialize(movies);
         }
 
 
@@ -76,7 +76,6 @@ namespace MovieAppLibrary.Repository
                         foundMovie = true;
                     }
                 }
-                SerialiseDeserialise.Serialize(movies);
                 if (!foundMovie)
                     throw new MovieNotFound("\nMovie Not Found");
             }
@@ -84,6 +83,7 @@ namespace MovieAppLibrary.Repository
             {
                 Console.WriteLine(ex.Message);
             }
+            SerialiseDeserialise.Serialize(movies);
         }
 
 
@@ -106,7 +106,6 @@ namespace MovieAppLibrary.Repository
                         Console.WriteLine("\nMovie deleted successfully.");
                     }
                 }
-                SerialiseDeserialise.Serialize(movies);
                 if (!movieDeleted)
                     throw new MovieNotFound("Movie Not Found");
             }
@@ -114,6 +113,7 @@ namespace MovieAppLibrary.Repository
             {
                 Console.WriteLine(ex.Message);
             }
+            SerialiseDeserialise.Serialize(movies);
         }
 
         public static void DisplayAllMovies()
@@ -139,6 +139,7 @@ namespace MovieAppLibrary.Repository
             {
                 Console.WriteLine(ex.Message);
             }
+            SerialiseDeserialise.Serialize(movies);
         }
     }
 }

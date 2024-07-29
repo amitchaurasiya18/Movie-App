@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "Controller\\MovieStore.cs",
               "ToolTip": "D:\\VS Projects GitHub\\Movie-App\\MovieApp\\Controller\\MovieStore.cs",
               "RelativeToolTip": "Controller\\MovieStore.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:45:23.083Z",
+              "WhenOpened": "2024-07-29T14:06:29.247Z",
               "EditorCaption": ""
             },
             {
@@ -47,7 +47,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:44:48.766Z"
+              "WhenOpened": "2024-07-29T10:44:48.766Z",
+              "EditorCaption": ""
             }
           ]
         }

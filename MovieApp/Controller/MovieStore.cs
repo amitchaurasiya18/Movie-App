@@ -3,14 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MovieAppLibrary;
-using MovieAppLibrary.Models;
 using MovieAppLibrary.Repository;
-using MovieAppLibrary.Services;
 
 namespace MovieApp.Controller
 {
-    internal class MovieStore
+    public class MovieStore
     {
         public static void DisplayMovieStore()
         {
@@ -48,5 +45,3 @@ namespace MovieApp.Controller
         }
     }
 }
-
-
