@@ -1,0 +1,12 @@
+D:\Class Libraries\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.deps.json
+D:\Class Libraries\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.dll
+D:\Class Libraries\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.pdb
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.csproj.AssemblyReference.cache
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.AssemblyInfoInputs.cache
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.AssemblyInfo.cs
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.csproj.CoreCompileInputs.cache
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.dll
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\refint\MovieAppLibrary.dll
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.pdb
+D:\Class Libraries\MovieAppLibrary\obj\Debug\net8.0\ref\MovieAppLibrary.dll

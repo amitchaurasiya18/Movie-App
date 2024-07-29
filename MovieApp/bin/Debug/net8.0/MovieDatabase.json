@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "MaTh24",
+    "Title": "Maharaja",
+    "ReleaseYear": 2024,
+    "Genre": "Thriller"
+  },
+  {
+    "Id": "LaDr24",
+    "Title": "Laapata Ladies",
+    "ReleaseYear": 2024,
+    "Genre": "Drama"
+  },
+  {
+    "Id": "DhCo10",
+    "Title": "Dhamaal",
+    "ReleaseYear": 2010,
+    "Genre": "Comedy"
+  }
+]
